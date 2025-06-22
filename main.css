@@ -47,7 +47,7 @@ nav a:hover {
 
 /* HERO SECTION */
 .hero {
-  /background-image: url("images/bkg.avif"); /* Replace with your image path */
+  /*background-image: url("images/bkg.avif"); /* Replace with your image path */
   background-size: cover;
   background-position: center;
   color: white;
