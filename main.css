@@ -47,7 +47,7 @@ nav a:hover {
 
 /* HERO SECTION */
 .hero {
-  /*background-image: url("images/bkg.avif"); /* Replace with your image path */
+  background-image: url("images/bkg.avif"); /* Replace with your image path */
   background-size: cover;
   background-position: center;
   color: white;
@@ -58,6 +58,7 @@ nav a:hover {
 .hero h2 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
+  color: #f4f4f4;
 }
 
 .hero p {
@@ -171,6 +172,13 @@ footer {
 .skills ul li {
   margin-bottom: 0.4rem;
   color: #333;
+}
+
+/* CONTACT SECTION */
+.contact a{
+  color: black;
+  text-decoration: none;
+  font-size: 1.1rem
 }
 
 
